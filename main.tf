@@ -1,7 +1,7 @@
-resource “google_compute_global_address” “default” {
+resource "google_compute_global_address" "default" {
 
-name = “global-server-ip”
+name = "global-server-ip"
 
-project= “	oceanic-variety-378200”
+project= "oceanic-variety-378200"
 
 }
